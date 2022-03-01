@@ -1,25 +1,33 @@
-# step by step
-1. nav bar 
-2. movie cover 
-3. movies <br>
-    I. pegar infos em themoviedb.org [nome, capa, sinopse]
+# Clone do site Netflix 
+## Sobre o projeto 
+Projeto criado para praticar os conhecimentos adquiridos durante a primeira parte do Bootcamp Front End na **Digital Innovation One** 
 
-    + div.filme-principal => cria tag e coloca essa classe
-    + justify-content sempre segue a direção do flex direction 
-    + align content - pega eio contrário a flex direction 
-    + Shift + alt + seta - duplica a linha 
-    + divs vem por padrão com display block 
-    + fontawesome cria icones no html 
-    + padding - 1 valor - usa nos 4 lados // 2 valores , o primeiro(cima e baixo ), o segundo (lados)
+O objetivo foi recriar a interface da popular plataforma de Streaming  Netflix. 
 
-    ---
-    + wrapper- envelopar - container 
-    + fontawesome 
-    + jquery Own Carroussel 
-    + js vanilla 
-    + criar pasta pra separar owl 
-    + pegar jquery.min
-    + pegar owl.caroussel.min
+## Layout do projeto 
+> inserir gif aqui 
 
+## Personalizações Pessoais (feitas e a fazer)
+* [] Referência à interface atualizada Netflix e não ao wireframe do projeto 
+* [] Criação de mais seções como Minha lista, filmes , séries e bombando
+* [] Navbar funcional levando à outras seções do site 
+* [] Criar módulo de erro pros botões do início 
+* [] Hover com informações nos cartazes 
 
+## Tecnologias utilizadas
++ HTML 
++ CSS
++ Javascript
++ Fontawesome
++ Owl Carrossel 
++ Google fonts 
++ Dados: https://themoviedb.org 
+
+## Autora do projeto
+<br>
+
+> ### Viviane Corrêa Nunes
+> 
+> + Linkedin: https://www.linkedin.com/in/viviane-correa-dev/  <br>
+> + Email: viviane.correa.dev@gmail.com
 
