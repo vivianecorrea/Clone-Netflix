@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+:root{
+    --red:#E50914;
+    --black:#141414;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:  var(--black);
+    font-family:'Montserrat', sans-serif;
+    color: #fff;
+
+}
+header .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+
+header .logo {
+    height: 30px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+    font-size: 14px;
+
+}
+
+header nav a:hover {
+    color: #fff;
+
+}
+
+#nav-bar{
+    padding: 20px 30px;
+}
+
+/*filme principal */
+.filme-principal {
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/suits-cover.jpg');
+    background-size: cover;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-content: space-around ;
+    
+
+}
+.filme-principal  .descricao {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    max-width: 50%;
+    min-width: 400px;
+}
+.titulo{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS',  Arial, sans-serif;
+    margin-top: 15%;
+}
+.botao{
+    background-color:rgba(0, 0,0 ,.50) ;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    margin-right: 15px;
+    font: 12px;
+
+    cursor: pointer;
+    transition: 0.8s ease all;
+
+}
+.botao:hover{
+    background-color: #fff;
+    color: black;
+}
+
+.filme-principal .botoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+    padding: 40px;
+}
+
+.container{
+    margin-left: 30px;
+}
+.botao i{
+    margin-left: 8px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
+
+
+/*carrossel */
+.box-filme{
+    height: 70%;
+    width: 70%;
+    display: block;
+    cursor: pointer;
+}
+
+.carrossel-filmes{
+   padding: 30px 50px;
+}
+
+.section-title{
+    padding-bottom: 20px;
+}
+
+.icons-container{
+    height: 30px;
+
+}
+.icon{
+    size: 100%;
+}
+
+header .container .icons-container{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    justify-content: space-between;
+    align-items: center;
+    justify-self: flex-end;
+}
+#imagem-vivi{
+    height: 20px;
+}
+
+
