@@ -11,7 +11,7 @@ O objetivo foi recriar a interface da popular plataforma de Streaming  Netflix.
 * ✅ Referência à interface atualizada Netflix e não ao wireframe do projeto 
 * ✅ Criação de mais seções como Minha lista, filmes , séries e bombando
 * ✅  Navbar funcional levando à outras seções do site 
-* [] Criar módulo de erro pros botões do início onclick
+* [] Criar modal de erro pros botões do início onclick
 * [] Responsividade para dispositivos móveis 
 * [] Substituir nav-bar por menu sanduíche 
 
