@@ -5,7 +5,7 @@ Projeto criado para praticar os conhecimentos adquiridos durante a primeira part
 O objetivo foi recriar a interface da popular plataforma de Streaming  Netflix. 
 
 ## Layout do projeto 
-> inserir gif aqui 
+![](layout-projeto.gif)
 
 ## Personalizações Pessoais (feitas e a fazer)
 * ✅ Referência à interface atualizada Netflix e não ao wireframe do projeto 
